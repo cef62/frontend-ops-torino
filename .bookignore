@@ -1,0 +1,13 @@
+src/
+lib/
+test/
+examples/
+coverage/
+umd/
+styleguide.config.js
+styleguide/
+styleguide-build/
+karma.conf.js
+package.json
+webpack*
+CHANGELOG.md

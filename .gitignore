@@ -1,0 +1,23 @@
+# npm related
+node_modules
+npm-debug.log
+
+# OS and editors related
+.DS_Store
+.vimsession
+.idea/
+
+# generated folders
+dist
+lib
+coverage
+build
+umd
+styleguide-build
+
+# npm hook opt in/out
+.opt-in
+.opt-out
+
+# docs generated files
+_book
